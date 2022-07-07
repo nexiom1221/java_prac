@@ -14,6 +14,9 @@ public class array {
 		for(int i=0; i< arr.length; i++) {
 			total += arr[i];
 		}
+		
+		System.out.println(total);
+		
 		char[] alpahbets = new char[26];
 		char ch = 'A';
 		
