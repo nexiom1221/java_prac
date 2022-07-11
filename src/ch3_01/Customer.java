@@ -47,7 +47,7 @@ public class Customer {
 	}
 	
 	public String showCustomerInfo() {
-		return customerName + " is " + customerGrade + " is " + bonusPoint;
+		return customerName + " is " + customerGrade + " and " + bonusPoint;
 	}
 	
-}
+} 
